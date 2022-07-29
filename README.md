@@ -31,6 +31,7 @@ What's inside:
 
 ![After](https://github.com/aslanbabakhanov/Xojo-Web-2-Bootstrap-Template/blob/main/images/main-after.jpg)
 
-#### Selected Item
+#### Selected Combobox Item
 ***
-!(https://github.com/aslanbabakhanov/Xojo-Web-2-Bootstrap-Template/blob/main/images/combo-after.jpg)
+
+<img src="https://github.com/aslanbabakhanov/Xojo-Web-2-Bootstrap-Template/blob/main/images/combo-after.jpg"/>
